@@ -185,7 +185,7 @@ session_start();
                                     </button>
                                     <?php } ?>
                                 </div>
-                                <small class="text-muted">$250 / night</small>
+                                <small class="text-muted">Rs 2500 / night</small>
                             </div>
                         </div>
                     </div>
@@ -208,7 +208,7 @@ session_start();
                                     Book
                                 </button>
                                 <?php } ?>
-                                <small class="text-muted">$180 / night</small>
+                                <small class="text-muted">Rs 1800 / night</small>
                             </div>
                         </div>
                     </div>
@@ -231,7 +231,7 @@ session_start();
                                     Book
                                 </button>
                                 <?php } ?>
-                                <small class="text-muted">$130 / night</small>
+                                <small class="text-muted">Rs 1300 / night</small>
                             </div>
                         </div>
                     </div>
@@ -343,7 +343,7 @@ session_start();
                                 </div>
                                 <div class="form-group row align-items-center">
                                     <button type="button" class="btn btn-info" style="margin-left: 0.8em;" data-container="body" data-toggle="popover"
-                                            data-placement="right" data-content="Check-in time starts at 3 PM. If a late check-in is planned, please contact our support department.">
+                                            data-placement="right" data-content="Check-in time starts at 12 PM. If a late check-in is planned, please contact our support department.">
                                         Check-in policies
                                     </button>
                                 </div>
@@ -470,7 +470,7 @@ session_start();
 </main>
 
 <footer class="container">
-    <p>&copy; Company 2017-2018</p>
+    <p>&copy; Hotel Management 2022</p>
 </footer>
 <script src="js/utilityFunctions.js"></script>
 <script src="node_modules/jquery/dist/jquery.min.js"></script>

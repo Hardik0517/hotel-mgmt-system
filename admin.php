@@ -303,7 +303,7 @@ session_start();
 </main>
 
 <footer class="container">
-    <p>&copy; Company 2017-2018</p>
+    <p>&copy; Hotel Management 2022</p>
 </footer>
 
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
